@@ -26,6 +26,8 @@ public class User implements Serializable {
 		this.regTime = regTime;
 	}
 
+
+
 	public Long getId() {
 		return id;
 	}
